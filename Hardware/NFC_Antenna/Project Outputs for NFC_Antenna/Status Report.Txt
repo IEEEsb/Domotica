@@ -1,0 +1,24 @@
+Source PCB Design Panelize.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [NFC_Antenna.PrjPcb]
+   Generated File[Panelize.GTL]
+   Generated File[Panelize.GBL]
+   Generated File[Panelize.GTO]
+   Generated File[Panelize.GTS]
+   Generated File[Panelize.GBS]
+   Generated File[Panelize.GBO]
+   Generated File[Panelize.GKO]
+   Generated File[Panelize.GM1]
+   Generated File[Panelize.GM13]
+   Generated File[Panelize.GM15]
+   Generated File[Panelize.RUL]
+   Generated File[Panelize.EXTREP]
+   Generated File[Panelize.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 16:16:26 On 20/09/2018

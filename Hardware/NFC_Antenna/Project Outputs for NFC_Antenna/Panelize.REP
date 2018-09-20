@@ -1,0 +1,142 @@
+*************************************************************
+FileName = Panelize.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Panelize.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Panelize.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Panelize.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D12
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Panelize.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Panelize.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Panelize.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Panelize.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Panelize.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Panelize.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Panelize.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
