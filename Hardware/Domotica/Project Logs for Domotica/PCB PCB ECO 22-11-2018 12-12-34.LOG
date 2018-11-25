@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=uController Member=R1
+Removed Member From Class: ClassName=Power Member=R7
+Removed Member From Class: ClassName=Power Member=SW2
+Removed Member From Class: ClassName=uController Member=U3
+Removed Member From Class: ClassName=Power Member=U7
+Added Member To Class: ClassName=Power Member=Component R1 RR0816P-103-D
+Added Member To Class: ClassName=Power Member=Component SW1 OS102011MS2QN1
+Added Member To Class: ClassName=Power Member=Component U3 TPS22810DBVR

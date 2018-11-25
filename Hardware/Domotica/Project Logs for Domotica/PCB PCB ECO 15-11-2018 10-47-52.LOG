@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=P1.0 Pin=U3-AD22
+Removed Pin From Net: NetName=P1.8 Pin=U3-P2
+Added Pin To Net: NetName=NetJ3_6 Pin=U3-AC15
+Added Pin To Net: NetName=NetJ3_6 Pin=U3-AC17
+Added Pin To Net: NetName=NetJ3_6 Pin=U3-AC19
+Added Pin To Net: NetName=NetJ3_6 Pin=U3-AC21
+Added Pin To Net: NetName=P0.1 Pin=U3-AD22
+Added Net: Name=P0.1
+Added Pin To Net: NetName=P0.4 Pin=U3-J1
+Added Net: Name=P0.4
+Added Pin To Net: NetName=P0.6 Pin=U3-L1
+Added Net: Name=P0.6
+Added Pin To Net: NetName=P0.8 Pin=U3-N1
+Added Net: Name=P0.8
+Added Pin To Net: NetName=P0.12 Pin=U3-U1
+Added Net: Name=P0.12
+Added Pin To Net: NetName=P0.13 Pin=U3-AD8
+Added Net: Name=P0.13
+Added Pin To Net: NetName=P0.15 Pin=U3-AD10
+Added Net: Name=P0.15
+Added Pin To Net: NetName=P0.17 Pin=U3-AD12
+Added Net: Name=P0.17
+Added Pin To Net: NetName=P0.20 Pin=U3-AD16
+Added Net: Name=P0.20
+Added Pin To Net: NetName=P0.22 Pin=U3-AD18
+Added Net: Name=P0.22
+Added Pin To Net: NetName=P0.24 Pin=U3-AD20
+Added Net: Name=P0.24
+Added Pin To Net: NetName=P0.26 Pin=U3-G1
+Added Net: Name=P0.26
+Added Class: Name=P0.[0..31]

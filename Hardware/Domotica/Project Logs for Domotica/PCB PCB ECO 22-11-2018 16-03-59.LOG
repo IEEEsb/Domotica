@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ3_6 Pin=SW3-4
+Added Pin To Net: NetName=VBUS_EN Pin=R2-1
+Added Pin To Net: NetName=VIN_EN Pin=R5-1
+Added Pin To Net: NetName=VBUS_EN Pin=SW1-1
+Added Pin To Net: NetName=VIN_EN Pin=SW1-3

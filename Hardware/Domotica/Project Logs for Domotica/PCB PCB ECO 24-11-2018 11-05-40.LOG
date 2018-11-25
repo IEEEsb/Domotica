@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDD Pin=SW2-1
+Removed Pin From Net: NetName=NetJ3_6 Pin=SW3-4
+Removed Member From Class: ClassName=Power Member=SW2
+Added Pin To Net: NetName=VDD Pin=U3-6
+Added Pin To Net: NetName=VDD Pin=U5-6

@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=uController Member=C5
+Removed Member From Class: ClassName=uController Member=C6
+Removed Member From Class: ClassName=Power Member=C7
+Removed Member From Class: ClassName=Power Member=C10
+Added Pin To Net: NetName=VBUS Pin=C1-2
+Added Pin To Net: NetName=VIN Pin=C4-2
+Added Pin To Net: NetName=NetJ3_6 Pin=SW3-3
